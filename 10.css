@@ -75,7 +75,7 @@ span.lamp__hang {
     left: 121px;
     width: 15px;
     height: 60px;
-    background-color: white;
+    background-color: black;
     transition: height 0.1s ease;
 }
 span.lamp__hang:before {
